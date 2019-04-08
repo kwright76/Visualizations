@@ -1,17 +1,4 @@
-We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
-the heterogeneous world of data visualization. The topic for the self-study project is climate change caused
-by human activity.
-Your objective is twofold:
-1. Collect 5 distinctly different visualizations of climate change (At least one visualization should argue
-AGAINST that climate change is caused by human activity). Review, compare and contrast the
-five visualizations. To do so, first, develop a literature-based evaluation framework and then use the
-framework to evaluate your five visualizations. Second, write an overall assessment and conclusion.
-2. Replicate the following visualization of climate change to the best of your abilities: Warming stripes.
-The data is linked in the article. This visualization must not be part of the five visualizations that
-you collected above.
-Your submission consists of a GitHub project that contains all material (visualizations, text, etc.). Make
-sure that you use appropriate means for referencing material that you have used for your project (See the
-academic integrity policies below).
+
 
 # Self-Study Project      Kyle Wright 
 
@@ -43,3 +30,27 @@ The box and whisker plot shows how devastating humans have been on the environme
 | 5 | 3 | 4 |
 
 The graph is very eye catching due to its extreme angles of change. Although it is difficult to understand it without some preknown knowledge such as the abbreviations, it is clear the graph is showing the correlation between rising CO2 gases and oxygen. One thing this graph is missing is the time analysis as it can be misinterpreted due to unmarked vertical lines. As far as colors go, it is clear that the blue shows a cooling ability and green refers to greenhouse gases or the human element, but the bottom graph can be deceiving based on the same green color being thought to be human interaction rather than natural.
+
+**3. Earth's historical levels of CO2 in the atmoshpere.**
+![alt text](https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-021116.jpeg)
+
+| Performance Expectancy | Effort Expectancy | Social Influence|
+| ------------- | ------------- | ------------- |
+| 5 | 5 | 5 |
+
+This line graph matches all criteria to be an informational factoid. It shows a large history of data concisely with a heavy ability to instill the fact clearly. The graph is very easy to read and understand due to simple axis labels and data driven information at critical points. The dashed line showing the maximum level of CO2 until post Industrial Revolution shows the author's vision and what he wanted the reader to gain from the visualization. The one drawback would be the background as it is ver comlex and is in all unnecessary. 
+
+We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
+the heterogeneous world of data visualization. The topic for the self-study project is climate change caused
+by human activity.
+Your objective is twofold:
+1. Collect 5 distinctly different visualizations of climate change (At least one visualization should argue
+AGAINST that climate change is caused by human activity). Review, compare and contrast the
+five visualizations. To do so, first, develop a literature-based evaluation framework and then use the
+framework to evaluate your five visualizations. Second, write an overall assessment and conclusion.
+2. Replicate the following visualization of climate change to the best of your abilities: Warming stripes.
+The data is linked in the article. This visualization must not be part of the five visualizations that
+you collected above.
+Your submission consists of a GitHub project that contains all material (visualizations, text, etc.). Make
+sure that you use appropriate means for referencing material that you have used for your project (See the
+academic integrity policies below).
