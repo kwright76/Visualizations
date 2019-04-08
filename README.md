@@ -13,6 +13,7 @@ Bresciani, S., & Eppler, M. (2015). Extending Tam to Information Visualization: 
 
 **1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.**
 ![alt text](https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png)
+https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
@@ -22,6 +23,7 @@ The box and whisker plot shows how devastating humans have been on the environme
 
 **2. Change in CO2 (Evidence of burning of fossil fuels) and O2 ratio in the atmosphere and CO2 from natural resources**
 ![alt text](https://www.ucsusa.org/sites/default/files/images/2017/07/CO2_signature%20.jpg)
+https://www.ucsusa.org/sites/default/files/images/2017/07/CO2_signature%20.jpg
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
@@ -31,6 +33,7 @@ The graph is very eye catching due to its extreme angles of change. Although it 
 
 **3. Earth's historical levels of CO2 in the atmoshpere.**
 ![alt text](https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-021116.jpeg)
+https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-021116.jpeg
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
@@ -43,6 +46,7 @@ This line graph matches all criteria to be an informational factoid. It shows a 
 Against climate change caused by humans.
 
 ![alt text](https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416)
+https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
@@ -52,6 +56,7 @@ The line graph is made to show that the CO2 levels are equivelant to past rise a
 
 **Scientific and Public Perspective of Climate Change**
 ![alt text](http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNote_graph_1.jpg)
+http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNote_graph_1.jpg
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
