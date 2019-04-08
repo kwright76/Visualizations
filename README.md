@@ -55,8 +55,9 @@ The line graph is made to show that the CO2 levels are equivelant to past rise a
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
-| 4 | 4 | 5 |
+| 3 | 1 | 5 |
 
+This visualization shows that the people are inherently ignorant to the idea the climate change is being caused by humans. The scientists and fact providers clearly say yes, while the majority of the American public say no or do not have an opinion. It can be said that the No or Don't Know section of the pie chart cannot be measured as their is a difference between someone saying climate change is not caused by humans or they simply don't have the information to support a decision. This is a drawback of the chart asit is filled with ambiguous, therefore the perforamnce and accuracy of the chart is questionable. In conclusion, the chart demonstrates the ignorance that the author wished to show, but it does so in a manner that does not wholly represent the American Public.
 
 
 We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
