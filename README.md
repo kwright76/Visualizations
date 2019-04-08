@@ -17,7 +17,7 @@ academic integrity policies below).
 
 #Self-Study Project      Kyle Wright 
 
-#Evaluation Framework: 
+##Evaluation Framework: 
 Each criteria can be scored on a scale of 1 to 5. 1 being the inability to meet the criteria and 5 being perfectly met.
 1. Performance Expectancy - Does the visualization portray the information correctly and concisely?
 2. Effort Expectancy - Is the visualization easy to use and understand?
@@ -25,6 +25,8 @@ Each criteria can be scored on a scale of 1 to 5. 1 being the inability to meet 
 
 Reference:
 Bresciani, S., & Eppler, M. (2015). Extending Tam to Information Visualization: A Framework for Evaluation. Electronic Journal of Information Systems Evaluation, 18(1), 46–58.
+
+##Visualizations
 
 1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.
 ![alt text](https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png)
