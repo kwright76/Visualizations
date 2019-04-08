@@ -26,5 +26,11 @@ Each criteria can be scored on a scale of 1 to 5. 1 being the inability to meet 
 Reference:
 Bresciani, S., & Eppler, M. (2015). Extending Tam to Information Visualization: A Framework for Evaluation. Electronic Journal of Information Systems Evaluation, 18(1), 46–58.
 
-#
+1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.
 ![alt text](https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png)
+
+| Performance Expectancy | Effort Expectancy | Social Influence|
+| ------------- | ------------- | ------------- |
+| 4 | 2 | 5 |
+
+The box and whisker plot shows how devastating humans have been on the environment, but the tru beauty in the plot is in the simplicity. The importance is to understand the abbreviations and there seems to be enough space in the plot to get rid of the abbreviations. This wouls allow for it to be able to be shown on its own without any explanation. It can be concluded from this plot that green house gases are the number one contributor to temperature rise, although the plot shows that this statistic is also the most variant based on the whiskers. Meaning that there could be more or less impact from green house gases, but the data is unable to make a conclusion.
