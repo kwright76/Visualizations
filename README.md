@@ -1,5 +1,3 @@
-# Self-Study Project
-Self-Study Project
 We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
 the heterogeneous world of data visualization. The topic for the self-study project is climate change caused
 by human activity.
@@ -15,9 +13,9 @@ Your submission consists of a GitHub project that contains all material (visuali
 sure that you use appropriate means for referencing material that you have used for your project (See the
 academic integrity policies below).
 
-#Self-Study Project      Kyle Wright 
+# Self-Study Project      Kyle Wright 
 
-##Evaluation Framework: 
+## Evaluation Framework: 
 Each criteria can be scored on a scale of 1 to 5. 1 being the inability to meet the criteria and 5 being perfectly met.
 1. Performance Expectancy - Does the visualization portray the information correctly and concisely?
 2. Effort Expectancy - Is the visualization easy to use and understand?
@@ -26,7 +24,7 @@ Each criteria can be scored on a scale of 1 to 5. 1 being the inability to meet 
 Reference:
 Bresciani, S., & Eppler, M. (2015). Extending Tam to Information Visualization: A Framework for Evaluation. Electronic Journal of Information Systems Evaluation, 18(1), 46–58.
 
-##Visualizations
+## Visualizations
 
 1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.
 ![alt text](https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png)
