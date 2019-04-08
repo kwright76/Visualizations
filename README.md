@@ -33,12 +33,23 @@ The graph is very eye catching due to its extreme angles of change. Although it 
 
 **3. Earth's historical levels of CO2 in the atmoshpere.**
 ![alt text](https://climate.nasa.gov/system/content_pages/main_images/203_co2-graph-021116.jpeg)
+![alt text](https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416)
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
 | 5 | 5 | 5 |
 
 This line graph matches all criteria to be an informational factoid. It shows a large history of data concisely with a heavy ability to instill the fact clearly. The graph is very easy to read and understand due to simple axis labels and data driven information at critical points. The dashed line showing the maximum level of CO2 until post Industrial Revolution shows the author's vision and what he wanted the reader to gain from the visualization. The one drawback would be the background as it is ver comlex and is in all unnecessary. 
+
+**4. **
+![alt text](https://www.libertycampaign.org/images/agw-pics/nasa-data-fraud.jpg)
+
+| Performance Expectancy | Effort Expectancy | Social Influence|
+| ------------- | ------------- | ------------- |
+| 5 | 5 | 5 |
+
+
+
 
 We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
 the heterogeneous world of data visualization. The topic for the self-study project is climate change caused
