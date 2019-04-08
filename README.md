@@ -54,7 +54,7 @@ https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-e
 
 The line graph is made to show that the CO2 levels are equivelant to past rise and fall in temperature which aligns with Antarctic temperatures, so it is showing what the author wants it to show. But, the blue CO2 line is deceiving due to the dotted line on the far right of the graph. Due to the small size of the graph it is not obvious that this is the same graph as visualization number 3 in this list creating a misperception of the data. Also, their is not a scale to measure the levels of CO2 leading to further questioning validation. The ethics of this visualization are very questionable.
 
-**Scientific and Public Perspective of Climate Change**
+**5. Scientific and Public Perspective of Climate Change**
 ![alt text](http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNote_graph_1.jpg)
 http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNote_graph_1.jpg
 
@@ -64,15 +64,7 @@ http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNot
 
 This visualization shows that the people are inherently ignorant to the idea the climate change is being caused by humans. The scientists and fact providers clearly say yes, while the majority of the American public say no or do not have an opinion. It can be said that the No or Don't Know section of the pie chart cannot be measured as their is a difference between someone saying climate change is not caused by humans or they simply don't have the information to support a decision. This is a drawback of the chart asit is filled with ambiguous, therefore the perforamnce and accuracy of the chart is questionable. In conclusion, the chart demonstrates the ignorance that the author wished to show, but it does so in a manner that does not wholly represent the American Public.
 
-
-We will have no class sessions in the second week of the quarter. Instead, you will spend this week exploring
-the heterogeneous world of data visualization. The topic for the self-study project is climate change caused
-by human activity.
-Your objective is twofold:
-1. Collect 5 distinctly different visualizations of climate change (At least one visualization should argue
-AGAINST that climate change is caused by human activity). Review, compare and contrast the
-five visualizations. To do so, first, develop a literature-based evaluation framework and then use the
-framework to evaluate your five visualizations. Second, write an overall assessment and conclusion.
+## Visualization Reproduction
 2. Replicate the following visualization of climate change to the best of your abilities: Warming stripes.
 The data is linked in the article. This visualization must not be part of the five visualizations that
 you collected above.
