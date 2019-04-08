@@ -51,7 +51,7 @@ Against climate change caused by humans.
 The line graph is made to show that the CO2 levels are equivelant to past rise and fall in temperature which aligns with Antarctic temperatures, so it is showing what the author wants it to show. But, the blue CO2 line is deceiving due to the dotted line on the far right of the graph. Due to the small size of the graph it is not obvious that this is the same graph as visualization number 3 in this list creating a misperception of the data. Also, their is not a scale to measure the levels of CO2 leading to further questioning validation. The ethics of this visualization are very questionable.
 
 **Scientific and Public Perspective of Climate Change**
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwir1tKag8HhAhUlL30KHatfDgMQjRx6BAgBEAU&url=http%3A%2F%2Fclimatecommunication.yale.edu%2Fpublications%2Fscientific-and-public-perspectives-on-climate-change%2F&psig=AOvVaw3SfHzC_7rK155FmYWgXuGf&ust=1554830680069763)
+![alt text](http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNote_graph_1.jpg)
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
