@@ -26,11 +26,20 @@ Bresciani, S., & Eppler, M. (2015). Extending Tam to Information Visualization: 
 
 ## Visualizations
 
-1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.
+**1. Temperature change from green house gases (GHG), human forces (ANT), mostly aerosols from humans (OA), natural forces (NAT), and variability in natural forces.**
 ![alt text](https://www.carbonbrief.org/wp-content/uploads/2017/12/IPCC-attribution.png)
 
-| Performance Expectancy | Effort Expectancy | Social Influence|
-| ------------- | ------------- | ------------- |
-| 4 | 2 | 5 |
+      | Performance Expectancy | Effort Expectancy | Social Influence|
+      | ------------- | ------------- | ------------- |
+      | 4 | 2 | 5 |
 
-The box and whisker plot shows how devastating humans have been on the environment, but the tru beauty in the plot is in the simplicity. The importance is to understand the abbreviations and there seems to be enough space in the plot to get rid of the abbreviations. This wouls allow for it to be able to be shown on its own without any explanation. It can be concluded from this plot that green house gases are the number one contributor to temperature rise, although the plot shows that this statistic is also the most variant based on the whiskers. Meaning that there could be more or less impact from green house gases, but the data is unable to make a conclusion.
+  The box and whisker plot shows how devastating humans have been on the environment, but the tru beauty in the plot is in the simplicity. The importance is to understand the abbreviations and there seems to be enough space in the plot to get rid of the abbreviations. This wouls allow for it to be able to be shown on its own without any explanation. It can be concluded from this plot that green house gases are the number one contributor to temperature rise, although the plot shows that this statistic is also the most variant based on the whiskers. Meaning that there could be more or less impact from green house gases, but the data is unable to make a conclusion.
+
+**2. Change in CO2 (Evidence of burning of fossil fuels) and O2 ratio in the atmosphere and CO2 from natural resources**
+![alt text](https://www.ucsusa.org/sites/default/files/images/2017/07/CO2_signature%20.jpg)
+
+      | Performance Expectancy | Effort Expectancy | Social Influence|
+      | ------------- | ------------- | ------------- |
+      | 5 | 3 | 3 |
+
+  The graph is very eye catching due to its extreme angles of change. Although it is difficult to understand it without some preknown knowledge such as the abbreviations, it is clear the graph is showing the correlation between rising CO2 gases and oxygen. One thing this graph is missing is the time analysis as it can be misinterpreted due to unmarked vertical lines.
