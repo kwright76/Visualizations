@@ -39,7 +39,9 @@ The graph is very eye catching due to its extreme angles of change. Although it 
 This line graph matches all criteria to be an informational factoid. It shows a large history of data concisely with a heavy ability to instill the fact clearly. The graph is very easy to read and understand due to simple axis labels and data driven information at critical points. The dashed line showing the maximum level of CO2 until post Industrial Revolution shows the author's vision and what he wanted the reader to gain from the visualization. The one drawback would be the background as it is ver comlex and is in all unnecessary. 
 
 **4. C02 compared to Antarctic tempertures (History of Ice Ages)**
-**Against climate change caused by humans.
+
+Against climate change caused by humans.
+
 ![alt text](https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416)
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
@@ -48,11 +50,12 @@ This line graph matches all criteria to be an informational factoid. It shows a 
 
 The line graph is made to show that the CO2 levels are equivelant to past rise and fall in temperature which aligns with Antarctic temperatures, so it is showing what the author wants it to show. But, the blue CO2 line is deceiving due to the dotted line on the far right of the graph. Due to the small size of the graph it is not obvious that this is the same graph as visualization number 3 in this list creating a misperception of the data. Also, their is not a scale to measure the levels of CO2 leading to further questioning validation. The ethics of this visualization are very questionable.
 
-****
-![alt text](}
+**Scientific and Public Perspective of Climate Change**
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwir1tKag8HhAhUlL30KHatfDgMQjRx6BAgBEAU&url=http%3A%2F%2Fclimatecommunication.yale.edu%2Fpublications%2Fscientific-and-public-perspectives-on-climate-change%2F&psig=AOvVaw3SfHzC_7rK155FmYWgXuGf&ust=1554830680069763)
+
 | Performance Expectancy | Effort Expectancy | Social Influence|
 | ------------- | ------------- | ------------- |
-| 1 | 3 | 5 |
+| 4 | 4 | 5 |
 
 
 
