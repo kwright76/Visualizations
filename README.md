@@ -46,6 +46,7 @@ This line graph matches all criteria to be an informational factoid. It shows a 
 Against climate change caused by humans.
 
 ![alt text](https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416)
+
 https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/fig3-small.jpg?la=en-GB&hash=9CC1BD3267C1DC398631D2F91A05B416
 
 | Performance Expectancy | Effort Expectancy | Social Influence|
