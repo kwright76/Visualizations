@@ -66,6 +66,8 @@ http://climatecommunication.yale.edu/wp-content/uploads/2016/03/13_05_ClimateNot
 This visualization shows that the people are inherently ignorant to the idea the climate change is being caused by humans. The scientists and fact providers clearly say yes, while the majority of the American public say no or do not have an opinion. It can be said that the No or Don't Know section of the pie chart cannot be measured as their is a difference between someone saying climate change is not caused by humans or they simply don't have the information to support a decision. This is a drawback of the chart asit is filled with ambiguous, therefore the perforamnce and accuracy of the chart is questionable. In conclusion, the chart demonstrates the ignorance that the author wished to show, but it does so in a manner that does not wholly represent the American Public.
 
 ## Visualization Reproduction
+![Warming Viz](https://kwright76/Visualizations/Warming Stripes_KW.twb)
+
 2. Replicate the following visualization of climate change to the best of your abilities: Warming stripes.
 The data is linked in the article. This visualization must not be part of the five visualizations that
 you collected above.
