@@ -68,10 +68,3 @@ This visualization shows that the people are inherently ignorant to the idea the
 ## Visualization Reproduction
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Warming_Stripes_KW.png)
 https://github.com/kwright76/Visualizations/blob/master/Warming_Stripes_KW.png
-
-2. Replicate the following visualization of climate change to the best of your abilities: Warming stripes.
-The data is linked in the article. This visualization must not be part of the five visualizations that
-you collected above.
-Your submission consists of a GitHub project that contains all material (visualizations, text, etc.). Make
-sure that you use appropriate means for referencing material that you have used for your project (See the
-academic integrity policies below).
