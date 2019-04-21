@@ -14,5 +14,13 @@ On top of the above questions, I also considered the below questions in my visua
 •	How can more data fit in the visualization to prove my point without being distracting?
 
 **Visualizations**
-![alt text](https://github.com/kwright76/Visualizations/blob/master/Individual%20Project.pdf)
+![alt text](https://github.com/kwright76/Visualizations/blob/master/IP_DE_per_year.JPG)
+
+![alt text](https://github.com/kwright76/Visualizations/blob/master/IP_DE_per_month.JPG)
+
+![alt text](https://github.com/kwright76/Visualizations/blob/master/IP_DE_per_day.JPG)
+
+![alt text](https://github.com/kwright76/Visualizations/blob/master/IP_DE_per_st_name.JPG)
+
+![alt text](https://github.com/kwright76/Visualizations/blob/master/IP_DE_per_camera.JPG)
 
