@@ -17,3 +17,6 @@ When compared to red light camera violations, there are points in the data that 
 I came up wwith this visualization by taking into account what Professor Scherman said about using other data to point out key insights in the data. What I found was a similar data source that had redlight camera information in the city of Chicago. From there I was not interested in what the redlight data told me about redlights, rather I was interrested in how the redlight data could magnify or attribute my speed camera data. By having the ability to point out monthly trends in the data I compared them together to show 
 
 ## Roadmap
+
+### To Tableau Public Document
+https://public.tableau.com/profile/kyle.wright#!/vizhome/IndividualProject_15559817916230/Speedvsred?publish=yes
