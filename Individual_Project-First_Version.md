@@ -2,6 +2,7 @@
 Kyle Wright
 
 ## Dashboard
+![alt text](https://github.com/kwright76/Visualizations/blob/master/first-phase_1.JPG)
 
 ## Aspect #1
 There is a trend that shows the summer months continually have fewer speed traffic violations.
