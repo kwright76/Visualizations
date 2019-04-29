@@ -24,10 +24,13 @@ Include names of the wards to the data. Find some crime rate information to comp
 
 ## Aspect #3
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/first-phase_3.JPG)
+With safety in the city being a primary factor, safety in broader areas of the city and the immensely distinct contrasts of the hemispheres shows the west is more dangerous than the other 3 areas.
 
 ### The Making Of Aspect Three
+The discovery of the N, W, S, and E in the street names showed that there was an ability to divide the city into compass directions. By doing this, the city can focus on cleansing large areas of crime and dangers that pedestrians may face.
 
 ### Roadmap Of Aspect Three
+Include information about the accidents and more specifically pedestrian accidents in Chicago.
 
 ## To Tableau Public Document
-
+https://public.tableau.com/profile/kyle.wright#!/vizhome/IndividualProject_1stPhase/SpeedvsRedLight
