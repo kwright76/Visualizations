@@ -33,4 +33,4 @@ The discovery of the N, W, S, and E in the street names showed that there was an
 Include information about the accidents and more specifically pedestrian accidents in Chicago.
 
 ## To Tableau Public Document
-https://public.tableau.com/profile/kyle.wright#!/vizhome/IndividualProject_1stPhase/SpeedvsRedLight
+https://public.tableau.com/profile/kyle.wright#!/vizhome/IndividualProject_1stPhase/FirstPhaseDashboard?publish=yes
