@@ -5,10 +5,10 @@ Kyle Wright
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/first-phase_1.JPG)
 
 ## Aspect #1
-There is a trend that shows the summer months continually have fewer speed traffic violations.
+When compared to red light camera violations, there are points in the data that seem to have the same trend. Showing a possible reason or explanation outside of the public's control. On the other hand, the similarities show that speeding is directly associated with running red lights. 
 
 ## Aspect #2
-When compared to red light camera violations, there are points in the data that seem to have the same trend. Showing a possible reason or explanation outside of the public's control. On the other hand, the similarities show that speeding is directly associated with running red lights. 
+
 
 ## Aspect #3
 
