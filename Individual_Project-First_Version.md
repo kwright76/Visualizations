@@ -10,7 +10,7 @@ When compared to red light camera violations, there are points in the data that 
 I came up with this visualization by taking into account what Professor Schermann said about using other data to point out key insights in the data. What I found was a similar data source that had redlight camera information in the city of Chicago. From there I was not interested in what the redlight data told me about redlights, rather I was interrested in how the redlight data could magnify or attribute my speed camera data. By having the ability to point out monthly trends in the data I compared them together to show a correlation between speeding cars that also run red lights.
 
 ### Roadmap Of Aspect One
-Include a corelation aspect to show the similarity.
+Include a correlation aspect to show the similarity.
 
 ## Aspect #2
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/first-phase_2.JPG)
