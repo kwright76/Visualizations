@@ -18,7 +18,7 @@ To improve on this visualization, I added the forecasting feature to show the fu
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
 
 ### Documentation
-This aspect shows differences between the speeding violations in the north, south, east, and west segments of Chicago. It is noteworthy to point out the the number of violations in the past three years has not changed between the four segments and the west side of the city has substantially more violations than the other segments. 
+This aspect shows differences between the speeding violations in the north, south, east, and west segments of Chicago. It is noteworthy to point out the the number of violations in the past four years has not changed between the four segments and the west side of the city has substantially more violations than the other segments. 
 
 ### Creation
 First to create this visualization the Address dimension needs to be split to pull out the N, E, S, and W from each street name. Then place the sum of records in rows, and the year and direction pulled out earlier in the columns. Change the color to show differentiation between the amounts and filter the outlying years to show complete years of data. Lastly, trend lines were added to show the 
