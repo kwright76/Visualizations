@@ -15,6 +15,14 @@ To create this chart, place violaiton date in the columns and sort it by month/y
 To improve on this visualization, I added the forecasting feature to show the future is not so bright for the safety of Chicago.
 
 ## Aspect #2
+![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
+
+### Documentation
+
+### Changes
+
+
+## Aspect #3
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
 
 ### Documentation
@@ -26,12 +34,7 @@ First to create this visualization the Address dimension needs to be split to pu
 ### Changes
 To improve this visualization I included the year distinction to compare the segments at a more granular level. From here I noticed there was not a change year over year so i also included the flat trend lines. 
 
-## Aspect #3
-![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
 
-### Documentation
-
-### Changes
 
 
 ## To Tableau Public Document
