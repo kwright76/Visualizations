@@ -1,6 +1,6 @@
 # Individual Project Revised Version
 
-![alt text]()
+![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_Dash.JPG)
 
 ## Aspect #1
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_1.JPG)
