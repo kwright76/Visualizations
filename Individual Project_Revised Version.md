@@ -25,7 +25,7 @@ This aspect shows the speeding violations in each Chicago neighborhood for each 
 To create this visualization first populate the rows with the number of speeders and the columns with the neighborhoods dimension. Add color and text marks for the amodunt of violations to show contrast and place the violation date dimension in pages. Make sure to filter the pages by month and year to be able to select specific time periods.
 
 ### Changes
-I altered the granularity of the visualization by including the pages selector for month and year. 
+To show granularity, I included a page selector for month and year.
 
 ## Aspect #3
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
