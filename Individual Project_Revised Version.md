@@ -11,16 +11,28 @@ In this aspect you can see the correlation between the amount of red light viola
 ### Creation
 To create this chart, place violaiton date in the columns and sort it by month/year. Next select number of records from each data source and make sure to rename them to differentiate the two options. In the show me tab select the dual lines graph to combine the two measures from the rows selection. Lastly, apply the forecast selection for only the speeders aspect as this graph is meant to project statistics for speeding violaations and the red light data should only attribute the data. To add the finishing touches get rid of the row headers as the values are not necessary to magnify the point the visualization is trying to get across. 
 
+### Changes
+To improve on this visualization, I added the forecasting feature to show the future is not so bright for the safety of Chicago.
+
 ## Aspect #2
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
 
 ### Documentation
+This aspect shows differences between the speeding violations in the north, south, east, and west segments of Chicago. It is noteworthy to point out the the number of violations in the past three years has not changed between the four segments and the west side of the city has substantially more violations than the other segments. 
 
+### Creation
+First to create this visualization the Address dimension needs to be split to pull out the N, E, S, and W from each street name. Then place the sum of records in rows, and the year and direction pulled out earlier in the columns. Change the color to show differentiation between the amounts and filter the outlying years to show complete years of data. Lastly, trend lines were added to show the 
+
+### Changes
+To improve this visualization I included the year distinction to compare the segments at a more granular level. From here I noticed there was not a change year over year so i also included the flat trend lines. 
 
 ## Aspect #3
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
 
 ### Documentation
+
+### Changes
+
 
 ## To Tableau Public Document
 https://public.tableau.com/profile/kyle.wright#!/vizhome/IndividualProject_RevisedVersion/RevisedVersionDashboard
