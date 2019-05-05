@@ -12,10 +12,13 @@ In this aspect you can see the correlation between the amount of red light viola
 To create this chart, place violaiton date in the columns and sort it by month/year. Next select number of records from each data source and make sure to rename them to differentiate the two options. In the show me tab select the dual lines graph to combine the two measures from the rows selection. Lastly, apply the forecast selection for only the speeders aspect as this graph is meant to project statistics for speeding violaations and the red light data should only attribute the data. To add the finishing touches get rid of the row headers as the values are not necessary to magnify the point the visualization is trying to get across. 
 
 ## Aspect #2
+![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
 
 ### Documentation
 
+
 ## Aspect #3
+![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
 
 ### Documentation
 
