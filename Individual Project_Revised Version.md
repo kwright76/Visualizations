@@ -1,5 +1,6 @@
 # Individual Project Revised Version
 
+## Dashboard
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_Dash.JPG)
 
 ## Aspect #1
@@ -18,9 +19,13 @@ To improve on this visualization, I added the forecasting feature to show the fu
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
 
 ### Documentation
+This aspect shows the speeding violations in each Chicago neighborhood for each month and year by selecting the month and year on the sliding bar or dropdown menu. This is significant as it shows how a single neighborhood consistently has the most or one of the most violations month after month for a series of years. 
+
+### Creation
+To create this visualization first populate the rows with the number of speeders and the columns with the neighborhoods dimension. Add color and text marks for the amodunt of violations to show contrast and place the violation date dimension in pages. Make sure to filter the pages by month and year to be able to select specific time periods.
 
 ### Changes
-
+I altered the granularity of the visualization by including the pages selector for month and year. 
 
 ## Aspect #3
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
