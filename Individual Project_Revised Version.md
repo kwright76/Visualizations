@@ -17,9 +17,10 @@ To improve on this visualization, I added the forecasting feature to show the fu
 
 ## Aspect #2
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_3.JPG)
+![alt text](https://github.com/kwright76/Visualizations/blob/master/chicago-neighborhoods.jpg)
 
 ### Documentation
-This aspect shows the speeding violations in each Chicago neighborhood for each month and year by selecting the month and year on the sliding bar or dropdown menu. This is significant as it shows how a single neighborhood consistently has the most or one of the most violations month after month for a series of years. 
+This aspect shows the speeding violations in each Chicago neighborhood for each month and year by selecting the month and year on the sliding bar or dropdown menu. This is significant as it shows how a single neighborhood consistently has the most or one of the most violations month after month for a series of years. Neighborhood 23 is the leading neighborhood through out the spectrum showing it has the most unsafe roadways or it is the most fast paced area of the city. 
 
 ### Creation
 To create this visualization first populate the rows with the number of speeders and the columns with the neighborhoods dimension. Add color and text marks for the amodunt of violations to show contrast and place the violation date dimension in pages. Make sure to filter the pages by month and year to be able to select specific time periods.
@@ -31,7 +32,7 @@ To show granularity, I included a page selector for month and year.
 ![alt text](https://github.com/kwright76/Visualizations/blob/master/Revised%20Vers_2.JPG)
 
 ### Documentation
-This aspect shows differences between the speeding violations in the north, south, east, and west segments of Chicago. It is noteworthy to point out the the number of violations in the past four years has not changed between the four segments and the west side of the city has substantially more violations than the other segments. 
+This aspect shows differences between the speeding violations in the north, south, east, and west segments of Chicago. It is noteworthy to point out the the number of violations in the past four years has not changed between the four segments and the west side of the city has substantially more violations than the other segments. In conclusion, the west side of the city is fast paced with dangerous streets for drivers and pedestrians. 
 
 ### Creation
 First to create this visualization the Address dimension needs to be split to pull out the N, E, S, and W from each street name. Then place the sum of records in rows, and the year and direction pulled out earlier in the columns. Change the color to show differentiation between the amounts and filter the outlying years to show complete years of data. Lastly, trend lines were added to show the 
